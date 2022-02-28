@@ -1,0 +1,15 @@
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\bin\Release\CentralPesada.ColaImpresion.exe.config
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\bin\Release\CentralPesada.ColaImpresion.exe
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\bin\Release\CentralPesada.ColaImpresion.pdb
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\bin\Release\CentralPesada.ColaImpresion.Aplicacion.dll
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\bin\Release\RestSharp.dll
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\bin\Release\Newtonsoft.Json.dll
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\bin\Release\CentralPesada.ColaImpresion.Aplicacion.pdb
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\bin\Release\CentralPesada.ColaImpresion.Aplicacion.dll.config
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\bin\Release\RestSharp.xml
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\bin\Release\Newtonsoft.Json.xml
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\obj\Release\CentralPesada.ColaImpresion.csproj.AssemblyReference.cache
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\obj\Release\CentralPesada.ColaImpresion.csproj.CoreCompileInputs.cache
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\obj\Release\CentralPesada.ColaImpresion.csproj.CopyComplete
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\obj\Release\CentralPesada.ColaImpresion.exe
+C:\Users\scp_t\Downloads\MEDIFARMA\MEDIFARMA\CentralPesada.ColaImpresion\CentralPesada.ColaImpresion\obj\Release\CentralPesada.ColaImpresion.pdb
